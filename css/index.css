@@ -1,0 +1,79 @@
+#header-menu{
+    border: 2px solid black;
+    height: 100px ;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 70px;
+    margin-bottom: 10px;
+   
+
+    }
+
+#container{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .item {
+    color: blue;
+  }
+
+  #detail-menu {
+display: flex;
+align-items: center
+  }
+
+  #main-content {
+      display: grid;
+      grid-template-columns: 80% 20%;
+  }
+  
+  #post {
+      margin-right: 5px;
+  }
+
+  #sidebar {
+    border: 2px solid black;
+    margin-bottom: 5px;
+  }
+
+  #post-item {
+    border: 2px solid black;
+
+  }
+
+  #post-item{
+      margin-bottom: 5px;
+
+  }
+
+  #Copyright-2018 {
+      border: 2px solid black;
+      height: 100px;
+    
+
+      }
+
+#Container {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+
+
+
+
+    
+      
